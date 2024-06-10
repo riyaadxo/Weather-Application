@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="avg_temp_text_view" type="id" />
+    <item name="detail_button" type="id" />
+    <item name="exit_button" type="id" />
+    <item name="daily_temps_text_view" type="id" />
+    <item name="temperature_text_view" type="id" />
+</resources>
